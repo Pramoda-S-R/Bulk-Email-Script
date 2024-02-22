@@ -46,10 +46,10 @@ Feel free to customize the HTML email template and Excel file format to fit your
 Here are some examples of the emails sent using this script. (Add your images here)
 
 - **Email Example 1:**
-  ![Email Example 1](https://www.dropbox.com/scl/fi/midj016kfj3npl7rf4f9l/example1.png?rlkey=9msl6ngtuzdudem5x6q2xl3ik&dl=0)
+  ![Email Example 1](https://github.com/Pramoda-S-R/Bulk-Email-Script/blob/main/images/example1.png)
 
 - **Email Example 2:**
-  ![Email Example 2](https://www.dropbox.com/scl/fi/xaw4yknnjwos6we448195/example2.png?rlkey=eegggtllyp6z175ct0yorny0v&dl=0)
+  ![Email Example 2](https://github.com/Pramoda-S-R/Bulk-Email-Script/blob/main/images/example2.png)
 
 ## License
 This project is open-sourced under the MIT license. Feel free to use, modify, and distribute it as you see fit.
